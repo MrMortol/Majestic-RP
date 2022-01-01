@@ -1,0 +1,476 @@
+Uri: https://majestic-rp.ru/
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\index.htm
+Content Type: text/html
+
+Uri: https://majestic-rp.ru/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://majestic-rp.ru/css/app.1f33b51e.css
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\css\app.1f33b51e.css
+Content Type: text/css
+
+Uri: https://majestic-rp.ru/css/chunk-0a58027a.b880512e.css
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\css\chunk-0a58027a.b880512e.css
+Content Type: text/css
+
+Uri: https://majestic-rp.ru/css/chunk-1135ed6a.09eff2bf.css
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\css\chunk-1135ed6a.09eff2bf.css
+Content Type: text/css
+
+Uri: https://majestic-rp.ru/css/chunk-1e6fec64.cd291539.css
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\css\chunk-1e6fec64.cd291539.css
+Content Type: text/css
+
+Uri: https://majestic-rp.ru/css/chunk-21c73626.1b47dd6a.css
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\css\chunk-21c73626.1b47dd6a.css
+Content Type: text/css
+
+Uri: https://majestic-rp.ru/css/chunk-33075a8b.cdf64c5d.css
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\css\chunk-33075a8b.cdf64c5d.css
+Content Type: text/css
+
+Uri: https://majestic-rp.ru/css/chunk-42343083.4a172334.css
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\css\chunk-42343083.4a172334.css
+Content Type: text/css
+
+Uri: https://majestic-rp.ru/css/chunk-53321df6.d8e784d7.css
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\css\chunk-53321df6.d8e784d7.css
+Content Type: text/css
+
+Uri: https://majestic-rp.ru/css/chunk-8632ddb6.b5d286c1.css
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\css\chunk-8632ddb6.b5d286c1.css
+Content Type: text/css
+
+Uri: https://majestic-rp.ru/css/chunk-86f478f0.80a69078.css
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\css\chunk-86f478f0.80a69078.css
+Content Type: text/css
+
+Uri: https://majestic-rp.ru/css/chunk-873a3882.b3afa718.css
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\css\chunk-873a3882.b3afa718.css
+Content Type: text/css
+
+Uri: https://majestic-rp.ru/css/chunk-a1878000.bbbe1b60.css
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\css\chunk-a1878000.bbbe1b60.css
+Content Type: text/css
+
+Uri: https://majestic-rp.ru/css/chunk-bd02b972.09d06fc7.css
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\css\chunk-bd02b972.09d06fc7.css
+Content Type: text/css
+
+Uri: https://majestic-rp.ru/css/chunk-c78e6066.b54e4aa3.css
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\css\chunk-c78e6066.b54e4aa3.css
+Content Type: text/css
+
+Uri: https://majestic-rp.ru/css/chunk-fbbb734c.12ba0ae9.css
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\css\chunk-fbbb734c.12ba0ae9.css
+Content Type: text/css
+
+Uri: https://majestic-rp.ru/fonts/ProximaNova-Bold.woff
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\fonts\ProximaNova-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://majestic-rp.ru/fonts/ProximaNova-Extrabld.woff
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\fonts\ProximaNova-Extrabld.woff
+Content Type: application/font-woff
+
+Uri: https://majestic-rp.ru/fonts/ProximaNova-Light.woff
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\fonts\ProximaNova-Light.woff
+Content Type: application/font-woff
+
+Uri: https://majestic-rp.ru/fonts/ProximaNova-Regular.woff
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\fonts\ProximaNova-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://majestic-rp.ru/fonts/ProximaNova-Semibold.woff
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\fonts\ProximaNova-Semibold.woff
+Content Type: application/font-woff
+
+Uri: https://majestic-rp.ru/img/Almazov/background.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Almazov\background.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/Almazov/person.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Almazov\person.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/brff/instruction/grid.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\brff\instruction\grid.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/brff/instruction/second-part.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\brff\instruction\second-part.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/brff/main/background.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\brff\main\background.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/brff/main/first-part.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\brff\main\first-part.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/brff/sun.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\brff\sun.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/Buster/background.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Buster\background.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/Buster/light.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Buster\light.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Buster/lights.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Buster\lights.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/Buster/person.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Buster\person.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/Check/pay-methods/default/applepay.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Check\pay-methods\default\applepay.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Check/pay-methods/default/card.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Check\pay-methods\default\card.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Check/pay-methods/default/googlepay.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Check\pay-methods\default\googlepay.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Check/pay-methods/default/mc.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Check\pay-methods\default\mc.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Check/pay-methods/default/paypal.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Check\pay-methods\default\paypal.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Check/pay-methods/default/qiwi.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Check\pay-methods\default\qiwi.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Check/pay-methods/default/samsungpay.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Check\pay-methods\default\samsungpay.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Check/pay-methods/default/sbp.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Check\pay-methods\default\sbp.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Check/pay-methods/default/webmoneyWmr.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Check\pay-methods\default\webmoneyWmr.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Check/pay-methods/default/yandex.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Check\pay-methods\default\yandex.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Check/pay-methods/default/yandexpay.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Check\pay-methods\default\yandexpay.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Check/pay-methods/hovered/applepay.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Check\pay-methods\hovered\applepay.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Check/pay-methods/hovered/card.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Check\pay-methods\hovered\card.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Check/pay-methods/hovered/googlepay.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Check\pay-methods\hovered\googlepay.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Check/pay-methods/hovered/mc.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Check\pay-methods\hovered\mc.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Check/pay-methods/hovered/paypal.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Check\pay-methods\hovered\paypal.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Check/pay-methods/hovered/qiwi.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Check\pay-methods\hovered\qiwi.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Check/pay-methods/hovered/samsungpay.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Check\pay-methods\hovered\samsungpay.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Check/pay-methods/hovered/sbp.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Check\pay-methods\hovered\sbp.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Check/pay-methods/hovered/webmoneyWmr.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Check\pay-methods\hovered\webmoneyWmr.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Check/pay-methods/hovered/yandex.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Check\pay-methods\hovered\yandex.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Check/pay-methods/hovered/yandexpay.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Check\pay-methods\hovered\yandexpay.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Check/person.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Check\person.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/Diksontop/background-instruction.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Diksontop\background-instruction.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/Diksontop/background-main.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Diksontop\background-main.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/Diksontop/person.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Diksontop\person.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/Donate/form/person.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Donate\form\person.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/favicon.ico
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://majestic-rp.ru/img/Feliks/background.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Feliks\background.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/Feliks/person.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Feliks\person.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/Feliks/stalkers.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Feliks\stalkers.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/Fletcher/background.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Fletcher\background.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/Fletcher/crystal.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Fletcher\crystal.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Fletcher/effect.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Fletcher\effect.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/Fletcher/fragment.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Fletcher\fragment.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Fletcher/person.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Fletcher\person.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/Home/about/person.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Home\about\person.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/Home/footer/payment-systems/default/applepay.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Home\footer\payment-systems\default\applepay.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Home/footer/payment-systems/default/googlepay.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Home\footer\payment-systems\default\googlepay.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Home/footer/payment-systems/default/io.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Home\footer\payment-systems\default\io.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Home/footer/payment-systems/default/mastercard.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Home\footer\payment-systems\default\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Home/footer/payment-systems/default/mir.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Home\footer\payment-systems\default\mir.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Home/footer/payment-systems/default/samsungpay.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Home\footer\payment-systems\default\samsungpay.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Home/footer/payment-systems/default/Visa.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Home\footer\payment-systems\default\Visa.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Home/footer/payment-systems/hovered/applepay.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Home\footer\payment-systems\hovered\applepay.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Home/footer/payment-systems/hovered/googlepay.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Home\footer\payment-systems\hovered\googlepay.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Home/footer/payment-systems/hovered/io.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Home\footer\payment-systems\hovered\io.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Home/footer/payment-systems/hovered/mastercard.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Home\footer\payment-systems\hovered\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Home/footer/payment-systems/hovered/mir.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Home\footer\payment-systems\hovered\mir.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Home/footer/payment-systems/hovered/samsungpay.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Home\footer\payment-systems\hovered\samsungpay.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Home/footer/payment-systems/hovered/Visa.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Home\footer\payment-systems\hovered\Visa.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/Home/footer/person.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Home\footer\person.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/Home/instruction/person.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Home\instruction\person.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/Home/main/person.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Home\main\person.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/Kreed/background.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Kreed\background.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/Kreed/person.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Kreed\person.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/Risenhaha/figures.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Risenhaha\figures.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/Risenhaha/person.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Risenhaha\person.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/roxie/background-text.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\roxie\background-text.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/roxie/background-text.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\roxie\background-text.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/roxie/ghosts.png
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\roxie\ghosts.png
+Content Type: image/png
+
+Uri: https://majestic-rp.ru/img/roxie/ghosts.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\roxie\ghosts.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/roxie/person.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\roxie\person.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/roxie/quote.svg
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\roxie\quote.svg
+Content Type: image/svg+xml
+
+Uri: https://majestic-rp.ru/img/roxie/quote.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\roxie\quote.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/Start/background.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Start\background.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/Start/person.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Start\person.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/img/Start/plastic.webp
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\img\Start\plastic.webp
+Content Type: image/webp
+
+Uri: https://majestic-rp.ru/js/app.946ad6c4.js
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\js\app.946ad6c4.js
+Content Type: application/javascript
+
+Uri: https://majestic-rp.ru/js/chunk-0a58027a.31bb4a40.js
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\js\chunk-0a58027a.31bb4a40.js
+Content Type: application/javascript
+
+Uri: https://majestic-rp.ru/js/chunk-1135ed6a.94c57053.js
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\js\chunk-1135ed6a.94c57053.js
+Content Type: application/javascript
+
+Uri: https://majestic-rp.ru/js/chunk-1e6fec64.483343e3.js
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\js\chunk-1e6fec64.483343e3.js
+Content Type: application/javascript
+
+Uri: https://majestic-rp.ru/js/chunk-21c73626.501c6510.js
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\js\chunk-21c73626.501c6510.js
+Content Type: application/javascript
+
+Uri: https://majestic-rp.ru/js/chunk-33075a8b.c025d29f.js
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\js\chunk-33075a8b.c025d29f.js
+Content Type: application/javascript
+
+Uri: https://majestic-rp.ru/js/chunk-42343083.1fa80b62.js
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\js\chunk-42343083.1fa80b62.js
+Content Type: application/javascript
+
+Uri: https://majestic-rp.ru/js/chunk-53321df6.32c38868.js
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\js\chunk-53321df6.32c38868.js
+Content Type: application/javascript
+
+Uri: https://majestic-rp.ru/js/chunk-8632ddb6.4b7e2d61.js
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\js\chunk-8632ddb6.4b7e2d61.js
+Content Type: application/javascript
+
+Uri: https://majestic-rp.ru/js/chunk-86f478f0.9c192dfb.js
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\js\chunk-86f478f0.9c192dfb.js
+Content Type: application/javascript
+
+Uri: https://majestic-rp.ru/js/chunk-873a3882.9de55aa8.js
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\js\chunk-873a3882.9de55aa8.js
+Content Type: application/javascript
+
+Uri: https://majestic-rp.ru/js/chunk-a1878000.a9d44c24.js
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\js\chunk-a1878000.a9d44c24.js
+Content Type: application/javascript
+
+Uri: https://majestic-rp.ru/js/chunk-bd02b972.77e50224.js
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\js\chunk-bd02b972.77e50224.js
+Content Type: application/javascript
+
+Uri: https://majestic-rp.ru/js/chunk-c78e6066.f45cf616.js
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\js\chunk-c78e6066.f45cf616.js
+Content Type: application/javascript
+
+Uri: https://majestic-rp.ru/js/chunk-fbbb734c.8ddf8200.js
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\js\chunk-fbbb734c.8ddf8200.js
+Content Type: application/javascript
+
+Uri: https://majestic-rp.ru/js/chunk-vendors.fb7339de.js
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\js\chunk-vendors.fb7339de.js
+Content Type: application/javascript
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\beacon.min.js\v652eace1692a40cfa3763df669d7439c1639079717194
+Content Type: text/javascript
+
+Uri: https://www.google.com/recaptcha/api.js?onload=vueRecaptchaApiLoaded&render=explicit
+File Name: C:\Downloaded Web Sites\majestic-rp.ru\recaptcha\api.js
+Content Type: text/javascript
+
